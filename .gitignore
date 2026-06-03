@@ -1,0 +1,13 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.pem
+deploy/ec2-instance-id.txt
+deploy/*-run-id.txt
+*.egg-info/
+data/
+.DS_Store
